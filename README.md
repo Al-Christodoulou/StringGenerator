@@ -5,10 +5,10 @@ Date of creation: January 2023
 
 The grammar is shown below. The lowercase letters indicate terminal symbols:
 ```
-Z -> (K)
-K -> GM
-G -> ν | Z
-M -> -K | +K | e
+Z → (K)
+K → GM
+G → ν | Z
+M → -K | +K | e
 ```
 where e is a null character.
 
